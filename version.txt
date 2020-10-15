@@ -1,4 +1,4 @@
-SolARFramework|0.8.0
+SolARFramework|0.8.2
 
 SolARWrapper|0.8.0
 
@@ -54,8 +54,8 @@ SolARModuleRealSense|0.8.0
 SolARTestRealSenseRGBDCamera|0.8.0
 
 SolARFiducialMarkerSampleStandAlone|0.8.0
-PipelineFiducialMarker|0.8.0
-TestFiducialMarkerPlugin|0.8.0
+PipelineFiducialMarker|0.8.2
+TestFiducialMarkerPlugin|0.8.2
 
 SolARNaturalImageMarkerSampleStandAlone|0.8.0
 SolARNaturalImageMarkerSampleMultiThread|0.8.0

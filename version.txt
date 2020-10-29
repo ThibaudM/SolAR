@@ -11,7 +11,7 @@ SolARTest3DTransformEstimationSACFrom3D3D|0.8.0
 SolARTestLoopClosureDetection|0.8.0
 SolARTestLoopCorrection|0.8.0
 
-SolARModuleOpenCV|0.8.0
+SolARModuleOpenCV|0.8.2
 SolAROpenCVCameraCalibration|0.8.0
 SolAROpenCVDescriptorMatcher|0.8.0
 SolAROpenCVFiducialMarker|0.8.0

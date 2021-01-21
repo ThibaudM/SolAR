@@ -9,7 +9,7 @@
 [submodule "samples/Sample-Slam"]
 	path = samples/Sample-Slam
 	url = https://github.com/SolarFramework/Sample-Slam
-	branch = develop
+	branch = doc/add-components-properties-description
 [submodule "modules/SolARModuleOpenCV"]
 	path = modules/SolARModuleOpenCV
 	url = https://github.com/SolarFramework/SolARModuleOpenCV
@@ -69,7 +69,7 @@
 [submodule "samples/Sample-Mapping"]
 	path = samples/Sample-Mapping
 	url = https://github.com/SolarFramework/Sample-Mapping
-	branch = develop
+	branch = doc/add-components-properties-description
 [submodule "samples/Sample-NaturalImageMarker"]
 	path = samples/Sample-NaturalImageMarker
 	url = https://github.com/SolarFramework/Sample-NaturalImageMarker

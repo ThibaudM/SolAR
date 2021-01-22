@@ -1,7 +1,7 @@
 [submodule "core/SolARFramework"]
 	path = core/SolARFramework
 	url = https://github.com/SolarFramework/SolARFramework
-	branch = .
+	branch = feature/UnityWrapper
 [submodule "modules/SolARModuleTools"]
 	path = modules/SolARModuleTools
 	url = https://github.com/SolarFramework/SolARModuleTools
@@ -45,11 +45,11 @@
 [submodule "core/SolARPipelineManager"]
 	path = core/SolARPipelineManager
 	url = https://github.com/SolarFramework/SolARPipelineManager
-	branch = .
+	branch = feature/UnityWrapper
 [submodule "plugin/unity/SolARUnityPlugin"]
 	path = plugin/unity/SolARUnityPlugin
 	url = https://github.com/SolarFramework/SolARUnityPlugin
-	branch = .
+	branch = feature/UnityWrapper
 [submodule "modules/SolARModuleRealSense"]
 	path = modules/SolARModuleRealSense
 	url = https://github.com/SolarFramework/SolARModuleRealSense.git
